@@ -76,7 +76,7 @@ This section delves into the analysis of product, regional, and employee perform
 ### 5. **Capitalize on High-Profit Products for Margin Optimization**
 - **Recommendation**: **Sports Helmets** and **Mountain Bike Socks** are high-margin products. Increase their visibility in your marketing efforts and explore opportunities to upsell or bundle them with other products.
 - Focus on maximizing profitability by promoting these products in special deals, bundles, and exclusive offers.
-- 
+  
 ### 6. **Discontinue the products that are in losses**
 -**Recommendation**: The company should discontinue the products that are generating heavy losses if not all especially the high percentage ones that cannot be made profitable even after heavy advertising.
 
