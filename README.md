@@ -53,8 +53,8 @@ This section delves into the analysis of product, regional, and employee perform
 
 ### 5. **Profit Margin Analysis**
 - **High-Profit Products**: Our **Sports Helmets** have the highest margin of **40.4%** followed by **Mountain bike socks(40%)** then **Bike Wash Disolver(37%).**
-- **Negative Products**: Around **223** of our products show losses which is a lot and some as as low as **-172%** which indicates a strong problem in maintaining
-- our Cost and Price balance.
+- **Negative Products**: Around **223** of our products show losses which is a lot and some as as low as **-172%** which indicates a strong problem in maintaining  our Cost and Price balance.
+- **Profit Margin**: The same products had different profit margins, which indicates that it might be due to price or cost differences when selling the same product in different regions or providing discounts etc.
 
 ## Key Recommendations
 
