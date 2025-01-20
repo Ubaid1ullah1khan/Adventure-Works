@@ -78,7 +78,7 @@ This section delves into the analysis of product, regional, and employee perform
 - Focus on maximizing profitability by promoting these products in special deals, bundles, and exclusive offers.
   
 ### 6. **Discontinue the products that are in losses**
--**Recommendation**: The company should discontinue the products that are generating heavy losses if not all especially the high percentage ones that cannot be made profitable even after heavy advertising.
+- **Recommendation**: The company should discontinue the products that are generating heavy losses if not all especially the high percentage ones that cannot be made profitable even after heavy advertising.
 
 ## Conclusion
 
